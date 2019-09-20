@@ -1,2 +1,3 @@
-# simple-web-server
-Demo of Node.je with simple web server
+# Simple Web Server
+
+Demo of Node.je with simple web server.
